@@ -75,7 +75,7 @@ Run this to export as env variables:
 set MLFLOW_TRACKING_URI=https://dagshub.com/ankushprof875/End-to-end-Machine-Learning-Project-with-MLflow.mlflow
 
 set MLFLOW_TRACKING_USERNAME=ankushprof875
-set MLFLOW_TRACKING_PASSWORD=e0ffddcca72f5ed422d33674cb20d2b3124bb7cb
+set MLFLOW_TRACKING_PASSWORD=YOUR_PASSWORD_HERE
 
 
 ```
